@@ -1,3 +1,19 @@
+# ============================================================================
+# Grid-based methodology/workflow flowchart in R (Gmisc)
+#
+# This script produced the methodology (workflow) flowchart figure in the
+# peer-reviewed article:
+#   Lemenkova, P. (2024). Artificial Neural Networks for Mapping Coastal Lagoon
+#   of Chilika Lake, India, Using Earth Observation Data.
+#   Journal of Marine Science and Engineering, 12(5), 709.
+#   DOI:    https://doi.org/10.3390/jmse12050709
+#   Zenodo: https://zenodo.org/records/11066668
+#   HAL:    https://hal.science/hal-04559189v1
+#   SSRN:   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807301
+#
+# Author: Polina Lemenkova  |  ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 # https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html
 
 library(Gmisc, quietly = TRUE)
